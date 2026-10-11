@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.snpwork.app",
+    "sha256_cert_fingerprints": ["8D:3E:DA:6C:F3:62:68:FD:86:10:9A:96:F2:72:E1:48:0B:D2:42:8F:07:C6:6C:83:0F:CD:F4:00:99:EA:C2:31"]
+  }
+}]
